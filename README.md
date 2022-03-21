@@ -52,7 +52,7 @@ function onYouTubeIframeAPIReady() {
 }
 ```
 
-~~아이콘이 랜덤하게 움직이는 부분 이해x~~
+~~동영상에 떠있는 아이콘이 랜덤하게 움직이는 부분 이해x~~
 
 ![image](https://user-images.githubusercontent.com/49021626/159256598-2198654c-0712-4dae-885b-145a785824d2.png)
 
